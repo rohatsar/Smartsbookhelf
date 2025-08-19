@@ -1,14 +1,21 @@
-Bu proje, **Global AI Hub Python 202 Bootcamp** kapsamında geliştirilmiş bir kütüphane yönetim uygulamasıdır.
+This project is a **Library Management Application** developed as part of the Global AI Hub Python 202 Bootcamp.  
+The project allows managing books both via the terminal and through an API.
 
-## Proje Aşamaları
 
-1. **OOP ile Terminal Uygulaması**  
-2. **Open Library API ile Veri Zenginleştirme**  
-3. **FastAPI ile Kendi API’nizi Yazma**
+1. **OOP Terminal Application**  
+   - Add, delete, update, and list books  
+   - User-friendly menu system  
 
-## Kurulum
+2. **Data Enrichment with Open Library API**  
+   - Fetch book information using ISBN  
+   - Complete missing details from the API  
 
-Reponuzu klonlayın:
+3. **Creating Your Own API with FastAPI**  
+   - Manage book data through a RESTful API  
+   - Integrate the project with web applications  
+
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/rohatsar/smartsbookhelf.git
